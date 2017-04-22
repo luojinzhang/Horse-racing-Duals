@@ -1,6 +1,6 @@
 # Horse-racing-Duals
-
 using linq to calculate the min delta of a list of integer
+
 using System;
 using System.Linq;
 using System.IO;
